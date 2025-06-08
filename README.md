@@ -2,8 +2,9 @@
 
 Este repositório contém uma aplicação de exemplo desenvolvida com Quarkus, focada em monitoramento de níveis de água e alertas de enchentes. A aplicação visa fornecer uma API robusta para gerenciar dados relacionados a inundações, usuários, configurações e alertas, utilizando um banco de dados para persistência.
 
-
-
+**Renato Silva Alexandre Bezerra | RM: 560928**
+**Felipe Carlos Abreu | RM: 559476**
+**Jhonatan Quispe Torrez | RM: 560601**
 
 ## ✨ Funcionalidades
 
@@ -90,10 +91,4 @@ Para configurar e executar este projeto localmente, siga os passos abaixo:
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-
 
